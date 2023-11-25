@@ -1,0 +1,11 @@
+{
+    "total_marks": 100,
+    "difficulty":{
+        "easy": 0.2,
+        "medium": 0.5,
+        "hard": 0.3,
+        "strict": false
+    },
+    "subjects": ["*"],
+    "topics": ["*"]
+}
